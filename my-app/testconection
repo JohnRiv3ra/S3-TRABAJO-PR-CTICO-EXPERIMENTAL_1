@@ -1,0 +1,7 @@
+from conexion.conexionBD import connectionBD  # ajusta la ruta si es necesario
+
+conn = connectionBD()
+if conn:
+    print("¡Conexión exitosa!")
+    conn.close()
+

@@ -1,8 +1,4 @@
-# CRUD con Python 🐍 MySQL 📂 y un Dashboard Asombroso 🚀
 
-Aprende a desarrollar un sistema **CRUD** utilizando **Python 🐍** y **MySQL 📂** mientras creas un impresionante panel de control interactivo. Este proyecto es ideal para quienes buscan gestionar datos de manera eficiente y construir aplicaciones dinámicas con una interfaz amigable.
-
-## Vista previa 🗃
 
 ![Dashboard Login](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/Dashboard-python-login-urian-viera.png)
 
